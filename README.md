@@ -1,6 +1,13 @@
-# wireguard一键脚本
-#### 适用于CentOS7
-#### wireguard_install.sh 单用户版，如需增加用户需要手动增加
+### 关于
 
+
+#### _install.sh
+> centos版wireguard一键脚本 | centos 7
+#### _install_ubuntu.sh
+> ubuntu版wireguard一键脚本 | ubuntu >= 14.04
+#### _game.sh
+> centos版wireguard+udpspeeder+udp2raw一键脚本 | centos 7
+#### _game_ubuntu.sh
+> ubuntu版wireguard+udpspeeder+udp2raw一键脚本 | ubuntu >= 14.04
 
 
